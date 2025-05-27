@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Emanuel Cunha
 
-<!--
-**ecunha1996/ecunha1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist in Bioinformatics**
 
-Here are some ideas to get you started:
+- 🧬 Passionate about making sense of biological data  
+- 💻 Python & Java enthusiast  
+- 🛠️ Creator of [BudgetBuddy](https://github.com/ecunha1996/BudgetBuddy)  
+- 🥾 Hiking keeps me inspired
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/emanuel-cunha/)
+
+---
+
+_“Keep it minimal, keep it fun!”_
