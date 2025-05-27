@@ -9,5 +9,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/emanuel-cunha/)
 
 ---
-
-_“Keep it minimal, keep it fun!”_
